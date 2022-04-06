@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Chivo";
+    src: url("chivo/Fonts/Chivo-Regular.eot");
+    src: url("chivo/Fonts/Chivo-Regular.woff") format("woff"),
+    url("chivo/Fonts/Chivo-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    src: url("comfortaa/Comfortaa-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "OpenSans";
+    src: url("condensed/OpenSans-CondLight.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Nunito";
+    src: url("nunito/Nunito-Regular.ttf") format("truetype"),
+    url("nunito/Nunito-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Overlock";
+    src: url("overlock/Overlock-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url("quicksand/Quicksand_Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url("raleway/Raleway-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Raleway Thin";
+    src: url("raleway/Raleway-Thin.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sans";
+    src: url("sans/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sans Light";
+    src: url("sans/OpenSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sans Semi";
+    src: url("sans/OpenSans-Semibold.ttf") format("truetype");
+}
